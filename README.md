@@ -1,2 +1,2 @@
-# MayCI
+# Continuous Integration
  
